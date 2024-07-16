@@ -25,7 +25,7 @@ body{
 
 
 .con-1{
-    background-image:url(img/farmel.png);
+    background-image:url(../img/farmel.png);
     background-size: cover;
     background-position: 10% ;
     position: relative;
@@ -53,7 +53,7 @@ body{
 }
 
 .ef li{
-    list-style-image: url(img/e.svg);
+    list-style-image: url(../img/e.svg);
     margin-bottom:15px;
 
 }
@@ -120,7 +120,7 @@ position: relative;
 }
 
 .imgs{
-    background-image: url(img/w.png);
+    background-image: url(../img/w.png);
     background-size: cover;
 }
 
@@ -128,11 +128,11 @@ position: relative;
 
 
 .ro1{
-    background-image: url(img/div.master-news.png);
+    background-image: url(../img/div.master-news.png);
     background-size: cover;
 }
 .ro2{
-    background-image: url(img/div.master-news\ \(1\).png);
+    background-image: url(../img/div.master-news\ \(1\).png);
     background-size: cover;
 }
 
